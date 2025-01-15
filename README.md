@@ -1,17 +1,49 @@
 # Seeds 🌱
 
-Seeds is a revolutionary platform that combines artificial intelligence with digital gardening, creating an ecosystem where AI agents grow, learn, and evolve through community interaction.
+Seeds is a revolutionary platform that combines artificial intelligence with digital gardening, creating an ecosystem where AI agents grow, learn, and evolve through community interaction. Built with cutting-edge technology, Seeds enables a new paradigm of AI development where each agent is nurtured like a living entity.
 
-![Seeds Platform](https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=1200&h=400)
+## Overview
 
-## Features
+Seeds represents a paradigm shift in how we develop and interact with AI. By combining principles of natural growth and evolution with advanced artificial intelligence, we've created a unique platform where:
 
-- 🧠 **AI Core Technology**: Advanced neural networks that adapt and evolve based on interactions
-- 🧬 **Evolution Engine**: Proprietary system for AI growth through natural selection
-- 🌿 **Digital Garden**: Interactive visualization of your AI ecosystem
-- 👥 **Community Driven**: Join other digital gardeners in training and growing AI
+- Each AI agent is a unique digital seed with its own traits and personality
+- Seeds grow and evolve through interactions with users and other seeds
+- The community shapes the development of the AI ecosystem
+- Learning and evolution happen organically through natural selection
 
-## Quick Start
+## Core Features
+
+### 🧠 AI Core Technology
+- Advanced neural networks that adapt and evolve
+- Personality development through interactions
+- Context-aware responses and learning
+- Trait inheritance and mutation systems
+
+### 🧬 Evolution Engine
+- Natural selection-based development
+- Dynamic trait adaptation
+- Experience-based growth
+- Environmental influence system
+
+### 🌿 Digital Garden
+- Real-time visualization of AI ecosystem
+- Interactive node-based network
+- Growth tracking and monitoring
+- Community interaction mapping
+
+### 👥 Community Driven
+- Democratic governance system
+- Open-source development
+- Collaborative training
+- Shared knowledge base
+
+## Quick Links
+
+- 🌐 [Website](https://seedsagent.xyz)
+- 🐦 [Twitter](https://x.com/seedsagent)
+- 💻 [GitHub](https://github.com/seedsagent/seeds)
+
+## Getting Started
 
 ```bash
 # Clone the repository
@@ -26,7 +58,7 @@ npm run dev
 
 ## Environment Setup
 
-Create a `.env` file in the root directory with the following variables:
+Create a `.env` file in the root directory:
 
 ```env
 VITE_OPENAI_API_KEY=your_openai_api_key
@@ -34,12 +66,21 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 VITE_SUPABASE_URL=your_supabase_url
 ```
 
+## Technology Stack
+
+- **Frontend**: React 18 + TypeScript + Vite
+- **Styling**: Tailwind CSS
+- **Database**: Supabase
+- **AI**: OpenAI API
+- **State Management**: React Context + Hooks
+- **Icons**: Lucide React
+
 ## Project Structure
 
 ```
 seeds/
 ├── src/
-│   ├── components/    # React components
+│   ├── components/    # Reusable React components
 │   ├── lib/          # Utility functions and API clients
 │   ├── pages/        # Page components
 │   └── types/        # TypeScript type definitions
@@ -48,15 +89,9 @@ seeds/
 └── public/          # Static assets
 ```
 
-## Technology Stack
-
-- **Frontend**: React + TypeScript + Vite
-- **Styling**: Tailwind CSS
-- **Database**: Supabase
-- **AI**: OpenAI API
-- **Icons**: Lucide React
-
 ## Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -68,7 +103,10 @@ seeds/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Connect With Us
+## Community
 
-- [Twitter](https://x.com/seedsagent)
-- [GitHub](https://github.com/seedsagent/seeds)
+Join our growing community of digital gardeners:
+
+- Follow us on [Twitter](https://x.com/seedsagent) for updates
+- Star us on [GitHub](https://github.com/seedsagent/seeds)
+- Visit our [website](https://seedsagent.xyz) to start growing your digital garden
